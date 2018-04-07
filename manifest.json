@@ -7,7 +7,6 @@
   "web_accessible_resources": [
     "*.jpg",
     "*.JPG",
-    "config.json"
   ],
 
   "browser_action": {
