@@ -3,7 +3,11 @@
   "version": "1.0",
   "description": "Build an Extension!",
   "permissions":["storage"],
+  "icons": {
+    "128": "icon.png"
+  },
   "background":{
+  	
     "scripts":["background.js"],
     "persistent": false
   },
